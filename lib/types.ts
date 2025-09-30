@@ -1,0 +1,2 @@
+export type PageType = 'landing' | 'auth' | 'dashboard' | 'projects' | 'clients' | 'team' | 'files' | 'financial' | 'calendar' | 'chat' | 'settings';
+export type UserType = 'admin' | 'collaborator' | 'client' | null;
